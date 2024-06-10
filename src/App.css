@@ -1,0 +1,15 @@
+.failed {
+  background-color: red;
+}
+
+body {
+  padding: 20px;
+  margin: 10px;
+  background-color: black;
+  color: white;
+}
+
+caption {
+  background-color: aqua;
+  color: purple;
+}
